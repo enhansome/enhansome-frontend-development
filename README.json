@@ -1,0 +1,236 @@
+{
+  "items": [
+    {
+      "description": "This is a collection of resources for Frontend development.\nMost of the resources are free but we also included paid resources.\nResources labelled with 💵 indicate that the resource is a paid resource.\nIf you're just starting, you DON'T need to use every resource on this list. It is practically impossible. Use this as a reference. It is not a guide.",
+      "items": [],
+      "title": "Introduction"
+    },
+    {
+      "description": "We Invite as many contributions as possible.\nIf you know of a resource that would be a great addition to this list, feel free to make a contribution.\nBe sure to read How To Contribute",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "How the Internet Works"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "HTML"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CSS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📜Short JavaScript code snippets for all your development needs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T05:23:45Z",
+            "owner": "Chalarangelo",
+            "repo": "30-seconds-of-code",
+            "stars": 128717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📜Modern JavaScript Cheatsheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-15T14:33:12Z",
+            "owner": "mbeaudru",
+            "repo": "modern-js-cheatsheet",
+            "stars": 25616
+          }
+        }
+      ],
+      "title": "Snippets and cheatsheets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Git"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "React"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🌐Redux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T00:52:12Z",
+            "owner": "reduxjs",
+            "repo": "redux",
+            "stars": 61515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🌐Recoil",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-01-01T08:07:34Z",
+            "owner": "facebookexperimental",
+            "repo": "Recoil",
+            "stars": 19441
+          }
+        }
+      ],
+      "title": "State Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🌐Create React App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-15T01:32:11Z",
+            "owner": "react",
+            "repo": "create-react-app",
+            "stars": 103328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🌐React Boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-23T21:35:09Z",
+            "owner": "react-boilerplate",
+            "repo": "react-boilerplate",
+            "stars": 29491
+          }
+        }
+      ],
+      "title": "Create React App"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vue"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🌐Vue CLI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-21T10:56:30Z",
+            "owner": "vuejs",
+            "repo": "vue-cli",
+            "stars": 29544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🌐Vue Dev Tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-11T14:49:24Z",
+            "owner": "vuejs",
+            "repo": "devtools-v6",
+            "stars": 24703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🌐Bit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T19:01:47Z",
+            "owner": "teambit",
+            "repo": "bit",
+            "stars": 18454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🌐Vue Dev Server",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-24T11:57:33Z",
+            "owner": "paulpflug",
+            "repo": "vue-dev-server",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Interview Prep"
+    },
+    {
+      "description": "You're very welcome to contribute to this list.\nBe sure to read How to Contribute before making your contribution.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "Thanks goes to these wonderful people",
+      "items": [],
+      "title": "Contributors ✨"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T04:20:55.781Z",
+    "original_repository": "codingknite/frontend-development",
+    "original_repository_sha": "e8d886ee79dec315ac592d1700056ab09711802f",
+    "enhanced_repository": "enhansome/enhansome-frontend-development",
+    "enhanced_repository_description": null,
+    "title": "Awesome frontend development with stars"
+  }
+}
