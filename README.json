@@ -44,7 +44,7 @@
             "last_commit": "2026-08-08T05:23:45Z",
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-code",
-            "stars": 128717
+            "stars": 128710
           }
         },
         {
@@ -58,7 +58,7 @@
             "last_commit": "2024-10-15T14:33:12Z",
             "owner": "mbeaudru",
             "repo": "modern-js-cheatsheet",
-            "stars": 25616
+            "stars": 25615
           }
         }
       ],
@@ -88,7 +88,7 @@
             "last_commit": "2026-08-02T00:52:12Z",
             "owner": "reduxjs",
             "repo": "redux",
-            "stars": 61515
+            "stars": 61513
           }
         },
         {
@@ -122,7 +122,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103328
+            "stars": 103312
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2023-03-23T21:35:09Z",
             "owner": "react-boilerplate",
             "repo": "react-boilerplate",
-            "stars": 29491
+            "stars": 29495
           }
         }
       ],
@@ -175,7 +175,7 @@
             "last_commit": "2024-09-11T14:49:24Z",
             "owner": "vuejs",
             "repo": "devtools-v6",
-            "stars": 24703
+            "stars": 24701
           }
         },
         {
@@ -186,7 +186,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T19:01:47Z",
+            "last_commit": "2026-08-14T20:53:22Z",
             "owner": "teambit",
             "repo": "bit",
             "stars": 18454
@@ -226,7 +226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:20:55.781Z",
+    "last_updated": "2026-08-15T03:08:55.446Z",
     "original_repository": "codingknite/frontend-development",
     "original_repository_sha": "e8d886ee79dec315ac592d1700056ab09711802f",
     "enhanced_repository": "enhansome/enhansome-frontend-development",
