@@ -44,7 +44,7 @@
             "last_commit": "2026-08-08T05:23:45Z",
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-code",
-            "stars": 128722
+            "stars": 128733
           }
         },
         {
@@ -58,7 +58,7 @@
             "last_commit": "2024-10-15T14:33:12Z",
             "owner": "mbeaudru",
             "repo": "modern-js-cheatsheet",
-            "stars": 25615
+            "stars": 25613
           }
         }
       ],
@@ -102,7 +102,7 @@
             "last_commit": "2025-01-01T08:07:34Z",
             "owner": "facebookexperimental",
             "repo": "Recoil",
-            "stars": 19440
+            "stars": 19439
           }
         }
       ],
@@ -122,7 +122,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103311
+            "stars": 103295
           }
         },
         {
@@ -175,7 +175,7 @@
             "last_commit": "2024-09-11T14:49:24Z",
             "owner": "vuejs",
             "repo": "devtools-v6",
-            "stars": 24702
+            "stars": 24703
           }
         },
         {
@@ -186,10 +186,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T04:02:20Z",
+            "last_commit": "2026-08-16T22:00:24Z",
             "owner": "teambit",
             "repo": "bit",
-            "stars": 18455
+            "stars": 18456
           }
         },
         {
@@ -226,7 +226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:16:19.630Z",
+    "last_updated": "2026-08-17T03:16:07.929Z",
     "original_repository": "codingknite/frontend-development",
     "original_repository_sha": "e8d886ee79dec315ac592d1700056ab09711802f",
     "enhanced_repository": "enhansome/enhansome-frontend-development",
