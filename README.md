@@ -226,7 +226,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 ### Books
 
 * 📒[Eloquent JavaScript ](https://eloquentjavascript.net/)
-* 📒[You Don't Know JavaScript ](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,699 | 🐛 2 | 📅 2026-02-15
+* 📒[You Don't Know JavaScript ](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,707 | 🐛 2 | 📅 2026-02-15
 * 📒[JavaScript Notes for Pros](https://books.goalkicker.com/JavaScriptBook/)
 * 📒[JavaScript For Cats](http://jsforcats.com/)
 * 📒[Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -256,14 +256,14 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Snippets and cheatsheets
 
-* 📜[Short JavaScript code snippets for all your development needs](https://github.com/30-seconds/30-seconds-of-code) ⭐ 128,734 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-08
-* 📜[Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) ⭐ 25,614 | 🐛 10 | 📅 2024-10-15
+* 📜[Short JavaScript code snippets for all your development needs](https://github.com/30-seconds/30-seconds-of-code) ⭐ 128,744 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-08
+* 📜[Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) ⭐ 25,613 | 🐛 10 | 📅 2024-10-15
 * 📜[A ridiculous collection of cheatsheets](https://devhints.io/)
 * 📜[Favorite JavaScript utilities in single line of code](https://1loc.dev/)
 
 ### Style Guides
 
-* 📜[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) ⭐ 148,133 | 🐛 163 | 🌐 JavaScript | 📅 2026-04-16
+* 📜[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) ⭐ 148,132 | 🐛 163 | 🌐 JavaScript | 📅 2026-04-16
 * 📜[Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 * 📜[Standardjs](https://standardjs.com/)
 
@@ -319,7 +319,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 * 🌐[Bitbucket](https://bitbucket.org/)
 * 🌐[Github](http://github.com/)
-* 🌐[Git Extensions for Windows](https://github.com/gitextensions/gitextensions) ⭐ 8,529 | 🐛 597 | 🌐 C# | 📅 2026-08-17
+* 🌐[Git Extensions for Windows](https://github.com/gitextensions/gitextensions) ⭐ 8,531 | 🐛 598 | 🌐 C# | 📅 2026-08-18
 * 🌐[Sourcetree](https://www.sourcetreeapp.com/)
 
 [👆 Back To Top](#table-of-contents)
@@ -385,13 +385,13 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 * 🌐[Lodash](https://lodash.com/)
 * 🌐[npm](https://www.npmjs.com/)
 * 🌐[React Sight](http://www.reactsight.com/)
-* 🌐[React Router](https://github.com/ReactTraining/react-router) ⭐ 56,553 | 🐛 174 | 🌐 TypeScript | 📅 2026-08-07
+* 🌐[React Router](https://github.com/ReactTraining/react-router) ⭐ 56,555 | 🐛 164 | 🌐 TypeScript | 📅 2026-08-18
 * 🌐[React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * 🌐[Storybook](https://storybook.js.org/)
 
 ### State Management
 
-* 🌐[Redux](https://github.com/reduxjs/redux) ⭐ 61,510 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-02
+* 🌐[Redux](https://github.com/reduxjs/redux) ⭐ 61,508 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-02
 * 🌐[Recoil](https://github.com/facebookexperimental/Recoil) ⚠️ Archived
 * 🌐[Mobx](https://mobx.js.org/README.html)
 
@@ -410,14 +410,14 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Unit Testing
 
-* 🌐[Enzyme](https://github.com/enzymejs/enzyme) ⭐ 19,825 | 🐛 282 | 🌐 JavaScript | 📅 2025-10-22
+* 🌐[Enzyme](https://github.com/enzymejs/enzyme) ⭐ 19,824 | 🐛 282 | 🌐 JavaScript | 📅 2025-10-22
 * 🌐[Jest](https://jestjs.io/docs/en/tutorial-react)
 * 🌐[React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
 * 🌐[Cypress](https://www.cypress.io/)
 
 ### Create React App
 
-* 🌐[Create React App](https://github.com/facebook/create-react-app) ⭐ 103,294 | 🐛 2,411 | 🌐 JavaScript | 📅 2025-02-15
+* 🌐[Create React App](https://github.com/facebook/create-react-app) ⭐ 103,289 | 🐛 2,410 | 🌐 JavaScript | 📅 2025-02-15
 * 🌐[React Boilerplate](https://github.com/react-boilerplate/react-boilerplate) ⭐ 29,493 | 🐛 140 | 🌐 JavaScript | 📅 2023-03-23
 * 🌐[Divjoy](https://divjoy.com) 💵
 
@@ -524,9 +524,9 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Tools
 
-* 🌐[Vue CLI](https://github.com/vuejs/vue-cli) ⭐ 29,542 | 🐛 1,070 | 🌐 JavaScript | 📅 2025-08-21
+* 🌐[Vue CLI](https://github.com/vuejs/vue-cli) ⭐ 29,541 | 🐛 1,070 | 🌐 JavaScript | 📅 2025-08-21
 * 🌐[Vue Dev Tools](https://github.com/vuejs/vue-devtools) ⭐ 24,703 | 🐛 513 | 🌐 TypeScript | 📅 2024-09-11
-* 🌐[Bit](https://github.com/teambit/bit) ⭐ 18,456 | 🐛 101 | 🌐 TypeScript | 📅 2026-08-18
+* 🌐[Bit](https://github.com/teambit/bit) ⭐ 18,457 | 🐛 101 | 🌐 TypeScript | 📅 2026-08-19
 * 🌐[Vue Dev Server](https://github.com/paulpflug/vue-dev-server) ⭐ 21 | 🐛 1 | 🌐 JavaScript | 📅 2017-03-24
 * 🌐[Bootstrap Vue](https://bootstrap-vue.js.org/)
 * 🌐[Nuxt.js](https://nuxtjs.org/)
@@ -718,7 +718,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 * 🌐[Julia Johnson](https://www.juliacodes.com/)
 * 🌐[Matt Farley](http://mattfarley.ca/)
 * 🌐[Nathan Simpson](https://nathansimpson.design/)
-* 🌐[Developer Portfolios - Github Repo](https://github.com/emmabostian/developer-portfolios) ⭐ 26,120 | 🐛 0 | 🌐 Python | 📅 2026-08-17
+* 🌐[Developer Portfolios - Github Repo](https://github.com/emmabostian/developer-portfolios) ⭐ 26,143 | 🐛 1 | 🌐 Python | 📅 2026-08-18
 
 [👆 Back To Top](#table-of-contents)
 
@@ -937,4 +937,4 @@ Thanks goes to these wonderful people
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

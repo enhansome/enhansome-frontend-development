@@ -44,7 +44,7 @@
             "last_commit": "2026-08-08T05:23:45Z",
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-code",
-            "stars": 128734
+            "stars": 128744
           }
         },
         {
@@ -58,7 +58,7 @@
             "last_commit": "2024-10-15T14:33:12Z",
             "owner": "mbeaudru",
             "repo": "modern-js-cheatsheet",
-            "stars": 25614
+            "stars": 25613
           }
         }
       ],
@@ -88,7 +88,7 @@
             "last_commit": "2026-08-02T00:52:12Z",
             "owner": "reduxjs",
             "repo": "redux",
-            "stars": 61510
+            "stars": 61508
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2025-01-01T08:07:34Z",
             "owner": "facebookexperimental",
             "repo": "Recoil",
-            "stars": 19438
+            "stars": 19437
           }
         }
       ],
@@ -122,7 +122,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103294
+            "stars": 103289
           }
         },
         {
@@ -161,7 +161,7 @@
             "last_commit": "2025-08-21T10:56:30Z",
             "owner": "vuejs",
             "repo": "vue-cli",
-            "stars": 29542
+            "stars": 29541
           }
         },
         {
@@ -186,10 +186,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T01:04:00Z",
+            "last_commit": "2026-08-19T01:34:15Z",
             "owner": "teambit",
             "repo": "bit",
-            "stars": 18456
+            "stars": 18457
           }
         },
         {
@@ -226,7 +226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:12:29.568Z",
+    "last_updated": "2026-08-19T03:14:42.977Z",
     "original_repository": "codingknite/frontend-development",
     "original_repository_sha": "e8d886ee79dec315ac592d1700056ab09711802f",
     "enhanced_repository": "enhansome/enhansome-frontend-development",
