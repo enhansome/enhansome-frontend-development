@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T06:19:54Z",
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 128744
+                "stars": 128745
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-10-15T14:33:12Z",
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25613
+                "stars": 25611
               }
             }
           ],
@@ -57,7 +57,7 @@
                 "archived": false,
                 "id": 36535156,
                 "language": "TypeScript",
-                "last_commit": "2026-08-02T00:52:12Z",
+                "last_commit": "2026-08-20T02:41:39Z",
                 "owner": "reduxjs",
                 "repo": "redux",
                 "stars": 61508
@@ -112,7 +112,7 @@
                 "last_commit": "2023-03-23T21:35:09Z",
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29493
+                "stars": 29492
               }
             }
           ],
@@ -140,7 +140,7 @@
                 "last_commit": "2025-08-21T10:56:30Z",
                 "owner": "vuejs",
                 "repo": "vue-cli",
-                "stars": 29541
+                "stars": 29540
               }
             },
             {
@@ -167,10 +167,10 @@
                 "archived": false,
                 "id": 79723839,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:22:11Z",
+                "last_commit": "2026-08-20T01:51:22Z",
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18457
+                "stars": 18456
               }
             },
             {
@@ -198,7 +198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:33:00.927Z",
+    "last_updated": "2026-08-20T03:13:46.572Z",
     "original_repository": "codingknite/frontend-development",
     "original_repository_id": 308831318,
     "original_repository_sha": "e8d886ee79dec315ac592d1700056ab09711802f",
