@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T06:19:54Z",
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 128763
+                "stars": 128785
               }
             },
             {
@@ -97,7 +97,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103288
+                "stars": 103290
               }
             },
             {
@@ -112,7 +112,7 @@
                 "last_commit": "2023-03-23T21:35:09Z",
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29492
+                "stars": 29493
               }
             }
           ],
@@ -140,7 +140,7 @@
                 "last_commit": "2025-08-21T10:56:30Z",
                 "owner": "vuejs",
                 "repo": "vue-cli",
-                "stars": 29540
+                "stars": 29541
               }
             },
             {
@@ -155,7 +155,7 @@
                 "last_commit": "2024-09-11T14:49:24Z",
                 "owner": "vuejs",
                 "repo": "devtools-v6",
-                "stars": 24702
+                "stars": 24701
               }
             },
             {
@@ -167,10 +167,10 @@
                 "archived": false,
                 "id": 79723839,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T02:45:13Z",
+                "last_commit": "2026-08-22T00:30:34Z",
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18455
+                "stars": 18458
               }
             },
             {
@@ -198,7 +198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T03:25:49.138Z",
+    "last_updated": "2026-08-22T03:11:01.423Z",
     "original_repository": "codingknite/frontend-development",
     "original_repository_id": 308831318,
     "original_repository_sha": "e8d886ee79dec315ac592d1700056ab09711802f",
