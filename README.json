@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T06:19:54Z",
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 128785
+                "stars": 128792
               }
             },
             {
@@ -75,7 +75,7 @@
                 "last_commit": "2025-01-01T08:07:34Z",
                 "owner": "facebookexperimental",
                 "repo": "Recoil",
-                "stars": 19434
+                "stars": 19433
               }
             }
           ],
@@ -97,7 +97,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103290
+                "stars": 103291
               }
             },
             {
@@ -112,7 +112,7 @@
                 "last_commit": "2023-03-23T21:35:09Z",
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29493
+                "stars": 29494
               }
             }
           ],
@@ -155,7 +155,7 @@
                 "last_commit": "2024-09-11T14:49:24Z",
                 "owner": "vuejs",
                 "repo": "devtools-v6",
-                "stars": 24701
+                "stars": 24700
               }
             },
             {
@@ -198,7 +198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:11:01.423Z",
+    "last_updated": "2026-08-23T03:25:53.879Z",
     "original_repository": "codingknite/frontend-development",
     "original_repository_id": 308831318,
     "original_repository_sha": "e8d886ee79dec315ac592d1700056ab09711802f",
