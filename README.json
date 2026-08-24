@@ -7,6 +7,78 @@
           "children": [
             {
               "node_type": "item",
+              "title": "🌐Dead Simple Grid",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6491613,
+                "language": "HTML",
+                "last_commit": "2016-04-10T21:41:25Z",
+                "owner": "mourner",
+                "repo": "dead-simple-grid",
+                "stars": 754
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Frameworks and Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📜AirBnb Style Guide - CSS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38265709,
+                "language": null,
+                "last_commit": "2024-06-04T00:44:40Z",
+                "owner": "airbnb",
+                "repo": "css",
+                "stars": 6974
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Style Guides"
+        }
+      ],
+      "title": "CSS"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📒You Don't Know JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14440270,
+                "language": null,
+                "last_commit": "2026-02-15T04:36:44Z",
+                "owner": "getify",
+                "repo": "You-Dont-Know-JS",
+                "stars": 184718
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Books"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "📜Short JavaScript code snippets for all your development needs",
               "description": null,
               "children": [],
@@ -17,7 +89,7 @@
                 "last_commit": "2026-08-19T06:19:54Z",
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 128804
+                "stars": 128810
               }
             },
             {
@@ -39,6 +111,28 @@
           "description": null,
           "node_type": "group",
           "title": "Snippets and cheatsheets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📜Airbnb JavaScript Style Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6498492,
+                "language": "JavaScript",
+                "last_commit": "2026-04-16T19:24:09Z",
+                "owner": "airbnb",
+                "repo": "javascript",
+                "stars": 148132
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Style Guides"
         }
       ],
       "title": "JavaScript"
@@ -46,6 +140,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🌐React Router",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19872456,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:04:25Z",
+                "owner": "remix-run",
+                "repo": "react-router",
+                "stars": 56572
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Tooling"
+        },
         {
           "children": [
             {
@@ -87,6 +203,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "🌐Material Kit React",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88877236,
+                "language": "JavaScript",
+                "last_commit": "2024-06-26T11:16:22Z",
+                "owner": "creativetimofficial",
+                "repo": "material-kit-react",
+                "stars": 1213
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "UI Frameworks & Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🌐Enzyme",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45942274,
+                "language": "JavaScript",
+                "last_commit": "2025-10-22T15:55:30Z",
+                "owner": "enzymejs",
+                "repo": "enzyme",
+                "stars": 19826
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Unit Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "🌐Create React App",
               "description": null,
               "children": [],
@@ -97,7 +257,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103287
+                "stars": 103286
               }
             },
             {
@@ -112,7 +272,7 @@
                 "last_commit": "2023-03-23T21:35:09Z",
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29494
+                "stars": 29493
               }
             }
           ],
@@ -167,10 +327,10 @@
                 "archived": false,
                 "id": 79723839,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T00:30:34Z",
+                "last_commit": "2026-08-24T14:05:19Z",
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18459
+                "stars": 18460
               }
             },
             {
@@ -198,7 +358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:27:37.740Z",
+    "last_updated": "2026-08-24T14:06:08.304Z",
     "original_repository": "codingknite/frontend-development",
     "original_repository_id": 308831318,
     "original_repository_sha": "e8d886ee79dec315ac592d1700056ab09711802f",
