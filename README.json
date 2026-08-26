@@ -67,7 +67,7 @@
                 "last_commit": "2026-02-15T04:36:44Z",
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184721
+                "stars": 184725
               }
             }
           ],
@@ -89,7 +89,7 @@
                 "last_commit": "2026-08-19T06:19:54Z",
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 128812
+                "stars": 128819
               }
             },
             {
@@ -104,7 +104,7 @@
                 "last_commit": "2024-10-15T14:33:12Z",
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25613
+                "stars": 25612
               }
             }
           ],
@@ -126,7 +126,7 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148131
+                "stars": 148136
               }
             }
           ],
@@ -151,7 +151,7 @@
                 "archived": false,
                 "id": 19872456,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T18:58:59Z",
+                "last_commit": "2026-08-25T20:32:53Z",
                 "owner": "remix-run",
                 "repo": "react-router",
                 "stars": 56571
@@ -176,7 +176,7 @@
                 "last_commit": "2026-08-20T02:41:39Z",
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61509
+                "stars": 61507
               }
             },
             {
@@ -191,7 +191,7 @@
                 "last_commit": "2025-01-01T08:07:34Z",
                 "owner": "facebookexperimental",
                 "repo": "Recoil",
-                "stars": 19433
+                "stars": 19431
               }
             }
           ],
@@ -257,7 +257,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103281
+                "stars": 103280
               }
             },
             {
@@ -272,7 +272,7 @@
                 "last_commit": "2023-03-23T21:35:09Z",
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29493
+                "stars": 29491
               }
             }
           ],
@@ -300,7 +300,7 @@
                 "last_commit": "2025-08-21T10:56:30Z",
                 "owner": "vuejs",
                 "repo": "vue-cli",
-                "stars": 29540
+                "stars": 29542
               }
             },
             {
@@ -327,10 +327,10 @@
                 "archived": false,
                 "id": 79723839,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T21:11:42Z",
+                "last_commit": "2026-08-26T02:39:40Z",
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18460
+                "stars": 18462
               }
             },
             {
@@ -358,7 +358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:06.052Z",
+    "last_updated": "2026-08-26T03:28:23.931Z",
     "original_repository": "codingknite/frontend-development",
     "original_repository_id": 308831318,
     "original_repository_sha": "e8d886ee79dec315ac592d1700056ab09711802f",
