@@ -67,7 +67,7 @@
                 "last_commit": "2026-02-15T04:36:44Z",
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184725
+                "stars": 184741
               }
             }
           ],
@@ -89,7 +89,7 @@
                 "last_commit": "2026-08-19T06:19:54Z",
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 128819
+                "stars": 128839
               }
             },
             {
@@ -126,7 +126,7 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148136
+                "stars": 148139
               }
             }
           ],
@@ -151,10 +151,10 @@
                 "archived": false,
                 "id": 19872456,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T20:32:53Z",
+                "last_commit": "2026-08-26T17:28:12Z",
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56571
+                "stars": 56573
               }
             }
           ],
@@ -176,7 +176,7 @@
                 "last_commit": "2026-08-20T02:41:39Z",
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61507
+                "stars": 61509
               }
             },
             {
@@ -213,7 +213,7 @@
                 "last_commit": "2024-06-26T11:16:22Z",
                 "owner": "creativetimofficial",
                 "repo": "material-kit-react",
-                "stars": 1213
+                "stars": 1212
               }
             }
           ],
@@ -235,7 +235,7 @@
                 "last_commit": "2025-10-22T15:55:30Z",
                 "owner": "enzymejs",
                 "repo": "enzyme",
-                "stars": 19826
+                "stars": 19822
               }
             }
           ],
@@ -257,7 +257,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103280
+                "stars": 103281
               }
             },
             {
@@ -272,7 +272,7 @@
                 "last_commit": "2023-03-23T21:35:09Z",
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29491
+                "stars": 29490
               }
             }
           ],
@@ -300,7 +300,7 @@
                 "last_commit": "2025-08-21T10:56:30Z",
                 "owner": "vuejs",
                 "repo": "vue-cli",
-                "stars": 29542
+                "stars": 29544
               }
             },
             {
@@ -315,7 +315,7 @@
                 "last_commit": "2024-09-11T14:49:24Z",
                 "owner": "vuejs",
                 "repo": "devtools-v6",
-                "stars": 24699
+                "stars": 24702
               }
             },
             {
@@ -327,10 +327,10 @@
                 "archived": false,
                 "id": 79723839,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T02:39:40Z",
+                "last_commit": "2026-08-26T23:44:27Z",
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18462
+                "stars": 18463
               }
             },
             {
@@ -358,9 +358,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:28:23.931Z",
-    "original_repository": "codingknite/frontend-development",
-    "original_repository_id": 308831318,
+    "last_updated": "2026-08-27T11:41:02.920Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 308831318,
+      "language": null,
+      "last_commit": "2024-03-04T11:02:05Z",
+      "owner": "codingknite",
+      "repo": "frontend-development",
+      "stars": 2337
+    },
     "original_repository_sha": "e8d886ee79dec315ac592d1700056ab09711802f",
     "enhanced_repository": "enhansome/enhansome-frontend-development",
     "enhanced_repository_description": null,
