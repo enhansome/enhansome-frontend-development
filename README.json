@@ -18,7 +18,8 @@
                 "owner": "mourner",
                 "repo": "dead-simple-grid",
                 "stars": 754
-              }
+              },
+              "first_seen": "2026-08-28T14:25:22.740Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "airbnb",
                 "repo": "css",
                 "stars": 6974
-              }
+              },
+              "first_seen": "2026-08-28T14:25:22.740Z"
             }
           ],
           "description": null,
@@ -67,8 +69,9 @@
                 "last_commit": "2026-02-15T04:36:44Z",
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184742
-              }
+                "stars": 184747
+              },
+              "first_seen": "2026-08-28T14:25:22.740Z"
             }
           ],
           "description": null,
@@ -89,8 +92,9 @@
                 "last_commit": "2026-08-19T06:19:54Z",
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 128839
-              }
+                "stars": 128846
+              },
+              "first_seen": "2026-08-28T14:25:22.740Z"
             },
             {
               "node_type": "item",
@@ -104,8 +108,9 @@
                 "last_commit": "2024-10-15T14:33:12Z",
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25612
-              }
+                "stars": 25611
+              },
+              "first_seen": "2026-08-28T14:25:22.740Z"
             }
           ],
           "description": null,
@@ -126,8 +131,9 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148139
-              }
+                "stars": 148144
+              },
+              "first_seen": "2026-08-28T14:25:22.740Z"
             }
           ],
           "description": null,
@@ -151,11 +157,12 @@
                 "archived": false,
                 "id": 19872456,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T17:28:12Z",
+                "last_commit": "2026-08-27T20:29:38Z",
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56573
-              }
+                "stars": 56577
+              },
+              "first_seen": "2026-08-28T14:25:22.740Z"
             }
           ],
           "description": null,
@@ -176,8 +183,9 @@
                 "last_commit": "2026-08-20T02:41:39Z",
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61509
-              }
+                "stars": 61508
+              },
+              "first_seen": "2026-08-28T14:25:22.740Z"
             },
             {
               "node_type": "item",
@@ -192,7 +200,8 @@
                 "owner": "facebookexperimental",
                 "repo": "Recoil",
                 "stars": 19431
-              }
+              },
+              "first_seen": "2026-08-28T14:25:22.740Z"
             }
           ],
           "description": null,
@@ -214,7 +223,8 @@
                 "owner": "creativetimofficial",
                 "repo": "material-kit-react",
                 "stars": 1212
-              }
+              },
+              "first_seen": "2026-08-28T14:25:22.740Z"
             }
           ],
           "description": null,
@@ -236,7 +246,8 @@
                 "owner": "enzymejs",
                 "repo": "enzyme",
                 "stars": 19822
-              }
+              },
+              "first_seen": "2026-08-28T14:25:22.740Z"
             }
           ],
           "description": null,
@@ -257,8 +268,9 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103281
-              }
+                "stars": 103280
+              },
+              "first_seen": "2026-08-28T14:25:22.740Z"
             },
             {
               "node_type": "item",
@@ -273,7 +285,8 @@
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
                 "stars": 29490
-              }
+              },
+              "first_seen": "2026-08-28T14:25:22.740Z"
             }
           ],
           "description": null,
@@ -300,8 +313,9 @@
                 "last_commit": "2025-08-21T10:56:30Z",
                 "owner": "vuejs",
                 "repo": "vue-cli",
-                "stars": 29544
-              }
+                "stars": 29546
+              },
+              "first_seen": "2026-08-28T14:25:22.740Z"
             },
             {
               "node_type": "item",
@@ -316,7 +330,8 @@
                 "owner": "vuejs",
                 "repo": "devtools-v6",
                 "stars": 24702
-              }
+              },
+              "first_seen": "2026-08-28T14:25:22.740Z"
             },
             {
               "node_type": "item",
@@ -327,11 +342,12 @@
                 "archived": false,
                 "id": 79723839,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T23:44:27Z",
+                "last_commit": "2026-08-28T14:22:00Z",
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18463
-              }
+                "stars": 18465
+              },
+              "first_seen": "2026-08-28T14:25:22.740Z"
             },
             {
               "node_type": "item",
@@ -346,7 +362,8 @@
                 "owner": "paulpflug",
                 "repo": "vue-dev-server",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T14:25:22.740Z"
             }
           ],
           "description": null,
@@ -358,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:54:02.244Z",
+    "last_updated": "2026-08-28T14:25:22.740Z",
     "original_repository_info": {
       "archived": false,
       "id": 308831318,
