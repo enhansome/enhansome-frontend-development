@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dead Simple Grid is a responsive CSS grid micro framework that is just that. Dead simple.",
+                "homepage": "http://mourner.github.io/dead-simple-grid",
                 "id": 6491613,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2016-04-10T21:41:25Z",
+                "open_issues": 4,
                 "owner": "mourner",
                 "repo": "dead-simple-grid",
-                "stars": 754
+                "stars": 754,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
             }
@@ -35,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A mostly reasonable approach to CSS and Sass.",
+                "homepage": null,
                 "id": 38265709,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-06-04T00:44:40Z",
+                "open_issues": 23,
                 "owner": "airbnb",
                 "repo": "css",
-                "stars": 6974
+                "stars": 6974,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
             }
@@ -64,12 +74,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A book series (2 published editions) on the JS language.",
+                "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
                 "id": 14440270,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-15T04:36:44Z",
+                "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184747
+                "stars": 184747,
+                "topics": [
+                  "async",
+                  "book",
+                  "book-series",
+                  "closures",
+                  "education",
+                  "es2015",
+                  "es6",
+                  "javascript",
+                  "learn-to-code",
+                  "programming",
+                  "prototypes",
+                  "training-materials",
+                  "training-providers"
+                ]
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
             }
@@ -87,12 +116,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coding articles to level up your development skills",
+                "homepage": "https://30secondsofcode.org/",
                 "id": 112507086,
                 "language": "JavaScript",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-19T06:19:54Z",
+                "open_issues": 0,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 128846
+                "stars": 128850,
+                "topics": [
+                  "astro",
+                  "awesome-list",
+                  "css",
+                  "education",
+                  "es6-javascript",
+                  "git",
+                  "html",
+                  "javascript",
+                  "learn-to-code",
+                  "learning-resources",
+                  "nodejs",
+                  "programming",
+                  "snippets"
+                ]
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
             },
@@ -103,12 +151,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.",
+                "homepage": "https://mbeaudru.github.io/modern-js-cheatsheet/",
                 "id": 103953059,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-10-15T14:33:12Z",
+                "open_issues": 10,
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25611
+                "stars": 25611,
+                "topics": [
+                  "es6",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
             }
@@ -126,12 +182,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript Style Guide",
+                "homepage": null,
                 "id": 6498492,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-16T19:24:09Z",
+                "open_issues": 163,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148144
+                "stars": 148144,
+                "topics": [
+                  "arrow-functions",
+                  "es2015",
+                  "es2016",
+                  "es2017",
+                  "es2018",
+                  "es6",
+                  "eslint",
+                  "javascript",
+                  "linting",
+                  "naming-conventions",
+                  "style-guide",
+                  "style-linter",
+                  "styleguide",
+                  "tc39"
+                ]
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
             }
@@ -155,12 +231,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Declarative routing for React",
+                "homepage": "https://reactrouter.com",
                 "id": 19872456,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T20:29:38Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T14:44:11Z",
+                "open_issues": 170,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56577
+                "stars": 56577,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
             }
@@ -178,12 +259,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JS library for predictable global state management",
+                "homepage": "https://redux.js.org",
                 "id": 36535156,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T02:41:39Z",
+                "open_issues": 49,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61508
+                "stars": 61508,
+                "topics": [
+                  "redux"
+                ]
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
             },
@@ -194,12 +282,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.",
+                "homepage": "https://recoiljs.org/",
                 "id": 261279710,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-01-01T08:07:34Z",
+                "open_issues": 320,
                 "owner": "facebookexperimental",
                 "repo": "Recoil",
-                "stars": 19431
+                "stars": 19431,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
             }
@@ -217,12 +310,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Material Kit React free and open source by Creative Tim",
+                "homepage": "https://www.creative-tim.com/product/material-kit-react?ref=mkr-readme",
                 "id": 88877236,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-06-26T11:16:22Z",
+                "open_issues": 7,
                 "owner": "creativetimofficial",
                 "repo": "material-kit-react",
-                "stars": 1212
+                "stars": 1212,
+                "topics": [
+                  "material-dashboard",
+                  "material-ui",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
             }
@@ -240,12 +342,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript Testing utilities for React",
+                "homepage": "https://enzymejs.github.io/enzyme/",
                 "id": 45942274,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-10-22T15:55:30Z",
+                "open_issues": 282,
                 "owner": "enzymejs",
                 "repo": "enzyme",
-                "stars": 19822
+                "stars": 19822,
+                "topics": [
+                  "assertion-library",
+                  "assertions",
+                  "ava",
+                  "chai",
+                  "enzyme",
+                  "jest",
+                  "mocha",
+                  "react",
+                  "react-components",
+                  "test",
+                  "test-runner",
+                  "test-runners",
+                  "testing",
+                  "traversal"
+                ]
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
             }
@@ -263,12 +385,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set up a modern web app by running one command.",
+                "homepage": "https://create-react-app.dev/",
                 "id": 63537249,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-02-15T01:32:11Z",
+                "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103280
+                "stars": 103279,
+                "topics": [
+                  "build-tools",
+                  "react",
+                  "zero-configuration"
+                ]
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
             },
@@ -279,12 +410,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.",
+                "homepage": "https://www.reactboilerplate.com",
                 "id": 30969188,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-23T21:35:09Z",
+                "open_issues": 140,
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29490
+                "stars": 29489,
+                "topics": [
+                  "i18n",
+                  "immer",
+                  "offline-first",
+                  "react",
+                  "react-boilerplate",
+                  "redux",
+                  "redux-saga",
+                  "scaffolding",
+                  "styled-components",
+                  "webpack4"
+                ]
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
             }
@@ -308,12 +455,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛠️ webpack-based tooling for Vue.js Development",
+                "homepage": "https://cli.vuejs.org/",
                 "id": 48626335,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-08-21T10:56:30Z",
+                "open_issues": 1070,
                 "owner": "vuejs",
                 "repo": "vue-cli",
-                "stars": 29546
+                "stars": 29546,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
             },
@@ -324,12 +476,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚙️ Browser devtools extension for debugging Vue.js applications.",
+                "homepage": "https://devtools-v6.vuejs.org/",
                 "id": 24579238,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-09-11T14:49:24Z",
+                "open_issues": 513,
                 "owner": "vuejs",
                 "repo": "devtools-v6",
-                "stars": 24702
+                "stars": 24702,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
             },
@@ -340,12 +497,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI-powered development workspaces with reusable components, architectural clarity and zero overhead.",
+                "homepage": "https://bit.dev",
                 "id": 79723839,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T14:22:00Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T22:30:27Z",
+                "open_issues": 86,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18465
+                "stars": 18466,
+                "topics": [
+                  "ai",
+                  "collaboration",
+                  "component-driven",
+                  "composable",
+                  "composable-architecture",
+                  "distributed",
+                  "front-end",
+                  "javascript",
+                  "micro-frontend",
+                  "micro-services",
+                  "monorepo",
+                  "multirepo",
+                  "multirepo-maintenance",
+                  "node-js",
+                  "polyrepo",
+                  "react",
+                  "service-oriented-architecture",
+                  "typescript",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
             },
@@ -356,12 +538,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a small development server for building `vue` components",
+                "homepage": null,
                 "id": 51398156,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-03-24T11:57:33Z",
+                "open_issues": 1,
                 "owner": "paulpflug",
                 "repo": "vue-dev-server",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
             }
@@ -375,15 +562,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:25:22.740Z",
+    "last_updated": "2026-08-29T04:27:21.407Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of resources for Frontend  development",
+      "homepage": null,
       "id": 308831318,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-03-04T11:02:05Z",
+      "open_issues": 18,
       "owner": "codingknite",
       "repo": "frontend-development",
-      "stars": 2337
+      "stars": 2337,
+      "topics": [
+        "awesome-list",
+        "awesome-lists",
+        "css3",
+        "frontend",
+        "frontend-development",
+        "list",
+        "lists",
+        "resources",
+        "web-development"
+      ]
     },
     "original_repository_sha": "e8d886ee79dec315ac592d1700056ab09711802f",
     "enhanced_repository": "enhansome/enhansome-frontend-development",
