@@ -83,7 +83,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184763,
+                "stars": 184760,
                 "topics": [
                   "async",
                   "book",
@@ -125,7 +125,7 @@
                 "open_issues": 0,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 128854,
+                "stars": 128866,
                 "topics": [
                   "astro",
                   "awesome-list",
@@ -191,7 +191,7 @@
                 "open_issues": 163,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148144,
+                "stars": 148137,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -237,10 +237,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T14:44:11Z",
-                "open_issues": 171,
+                "open_issues": 173,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56577,
+                "stars": 56574,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -268,7 +268,7 @@
                 "open_issues": 49,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61506,
+                "stars": 61509,
                 "topics": [
                   "redux"
                 ]
@@ -351,7 +351,7 @@
                 "open_issues": 282,
                 "owner": "enzymejs",
                 "repo": "enzyme",
-                "stars": 19821,
+                "stars": 19820,
                 "topics": [
                   "assertion-library",
                   "assertions",
@@ -394,7 +394,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103280,
+                "stars": 103279,
                 "topics": [
                   "build-tools",
                   "react",
@@ -485,7 +485,7 @@
                 "open_issues": 513,
                 "owner": "vuejs",
                 "repo": "devtools-v6",
-                "stars": 24699,
+                "stars": 24698,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -502,11 +502,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-30T00:12:39Z",
+                "last_commit": "2026-08-30T17:25:02Z",
                 "open_issues": 87,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18466,
+                "stars": 18468,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T08:23:37.872Z",
+    "last_updated": "2026-08-31T08:43:56.091Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Frontend  development",
