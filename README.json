@@ -83,7 +83,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184819,
+                "stars": 184826,
                 "topics": [
                   "async",
                   "book",
@@ -125,7 +125,7 @@
                 "open_issues": 1,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 128973,
+                "stars": 128983,
                 "topics": [
                   "astro",
                   "awesome-list",
@@ -191,7 +191,7 @@
                 "open_issues": 164,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148163,
+                "stars": 148173,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -237,10 +237,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-02T21:14:37Z",
-                "open_issues": 176,
+                "open_issues": 178,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56578,
+                "stars": 56576,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -264,11 +264,11 @@
                 "id": 36535156,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T03:55:51Z",
-                "open_issues": 49,
+                "last_commit": "2026-09-06T22:56:08Z",
+                "open_issues": 57,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61506,
+                "stars": 61502,
                 "topics": [
                   "redux"
                 ]
@@ -291,7 +291,7 @@
                 "open_issues": 320,
                 "owner": "facebookexperimental",
                 "repo": "Recoil",
-                "stars": 19430,
+                "stars": 19429,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -351,7 +351,7 @@
                 "open_issues": 282,
                 "owner": "enzymejs",
                 "repo": "enzyme",
-                "stars": 19816,
+                "stars": 19815,
                 "topics": [
                   "assertion-library",
                   "assertions",
@@ -394,7 +394,7 @@
                 "open_issues": 2411,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103271,
+                "stars": 103267,
                 "topics": [
                   "build-tools",
                   "react",
@@ -502,8 +502,8 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T03:21:23Z",
-                "open_issues": 66,
+                "last_commit": "2026-09-07T06:37:49Z",
+                "open_issues": 67,
                 "owner": "teambit",
                 "repo": "bit",
                 "stars": 18472,
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T07:11:10.109Z",
+    "last_updated": "2026-09-07T07:23:54.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Frontend  development",
