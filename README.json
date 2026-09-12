@@ -83,7 +83,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184854,
+                "stars": 184861,
                 "topics": [
                   "async",
                   "book",
@@ -125,7 +125,7 @@
                 "open_issues": 6,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 129035,
+                "stars": 129051,
                 "topics": [
                   "astro",
                   "awesome-list",
@@ -191,7 +191,7 @@
                 "open_issues": 163,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148200,
+                "stars": 148206,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -236,8 +236,8 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T21:26:02Z",
-                "open_issues": 183,
+                "last_commit": "2026-09-11T23:06:56Z",
+                "open_issues": 179,
                 "owner": "remix-run",
                 "repo": "react-router",
                 "stars": 56572,
@@ -319,7 +319,7 @@
                 "open_issues": 7,
                 "owner": "creativetimofficial",
                 "repo": "material-kit-react",
-                "stars": 1212,
+                "stars": 1211,
                 "topics": [
                   "material-dashboard",
                   "material-ui",
@@ -502,11 +502,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T20:38:00Z",
-                "open_issues": 68,
+                "last_commit": "2026-09-11T21:17:28Z",
+                "open_issues": 69,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18474,
+                "stars": 18475,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:21:01.659Z",
+    "last_updated": "2026-09-12T07:13:25.562Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Frontend  development",
