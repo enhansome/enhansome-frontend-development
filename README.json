@@ -83,7 +83,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184897,
+                "stars": 184910,
                 "topics": [
                   "async",
                   "book",
@@ -125,7 +125,7 @@
                 "open_issues": 6,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 129087,
+                "stars": 129102,
                 "topics": [
                   "astro",
                   "awesome-list",
@@ -236,11 +236,11 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T21:10:31Z",
-                "open_issues": 182,
+                "last_commit": "2026-09-15T21:06:54Z",
+                "open_issues": 171,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56573,
+                "stars": 56571,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -268,7 +268,7 @@
                 "open_issues": 26,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61484,
+                "stars": 61487,
                 "topics": [
                   "redux"
                 ]
@@ -291,7 +291,7 @@
                 "open_issues": 320,
                 "owner": "facebookexperimental",
                 "repo": "Recoil",
-                "stars": 19425,
+                "stars": 19424,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -394,7 +394,7 @@
                 "open_issues": 2411,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103259,
+                "stars": 103260,
                 "topics": [
                   "build-tools",
                   "react",
@@ -464,7 +464,7 @@
                 "open_issues": 1069,
                 "owner": "vuejs",
                 "repo": "vue-cli",
-                "stars": 29541,
+                "stars": 29540,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -485,7 +485,7 @@
                 "open_issues": 513,
                 "owner": "vuejs",
                 "repo": "devtools-v6",
-                "stars": 24694,
+                "stars": 24693,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -502,11 +502,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T04:03:04Z",
-                "open_issues": 70,
+                "last_commit": "2026-09-15T21:52:28Z",
+                "open_issues": 69,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18480,
+                "stars": 18482,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T07:52:14.049Z",
+    "last_updated": "2026-09-16T07:45:58.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Frontend  development",
@@ -574,7 +574,7 @@
       "open_issues": 20,
       "owner": "codingknite",
       "repo": "frontend-development",
-      "stars": 2337,
+      "stars": 2336,
       "topics": [
         "awesome-list",
         "awesome-lists",
