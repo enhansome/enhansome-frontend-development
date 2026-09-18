@@ -83,7 +83,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184914,
+                "stars": 184923,
                 "topics": [
                   "async",
                   "book",
@@ -125,7 +125,7 @@
                 "open_issues": 6,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 129112,
+                "stars": 129134,
                 "topics": [
                   "astro",
                   "awesome-list",
@@ -188,10 +188,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-04-16T19:24:09Z",
-                "open_issues": 163,
+                "open_issues": 165,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148238,
+                "stars": 148244,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -236,11 +236,11 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T18:15:12Z",
-                "open_issues": 172,
+                "last_commit": "2026-09-17T14:52:51Z",
+                "open_issues": 174,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56571,
+                "stars": 56577,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -264,8 +264,8 @@
                 "id": 36535156,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T13:45:40Z",
-                "open_issues": 24,
+                "last_commit": "2026-09-18T03:52:51Z",
+                "open_issues": 25,
                 "owner": "reduxjs",
                 "repo": "redux",
                 "stars": 61483,
@@ -351,7 +351,7 @@
                 "open_issues": 282,
                 "owner": "enzymejs",
                 "repo": "enzyme",
-                "stars": 19811,
+                "stars": 19810,
                 "topics": [
                   "assertion-library",
                   "assertions",
@@ -391,10 +391,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-02-15T01:32:11Z",
-                "open_issues": 2411,
+                "open_issues": 2412,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103257,
+                "stars": 103256,
                 "topics": [
                   "build-tools",
                   "react",
@@ -419,7 +419,7 @@
                 "open_issues": 140,
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29475,
+                "stars": 29476,
                 "topics": [
                   "i18n",
                   "immer",
@@ -464,7 +464,7 @@
                 "open_issues": 1069,
                 "owner": "vuejs",
                 "repo": "vue-cli",
-                "stars": 29540,
+                "stars": 29537,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -502,11 +502,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T23:02:28Z",
-                "open_issues": 69,
+                "last_commit": "2026-09-17T21:27:28Z",
+                "open_issues": 73,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18484,
+                "stars": 18485,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T07:48:07.694Z",
+    "last_updated": "2026-09-18T07:28:27.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Frontend  development",
