@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "🌐Dead Simple Grid",
-              "description": null,
+              "description": "mourner/dead-simple-grid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "mourner",
                 "repo": "dead-simple-grid",
-                "stars": 753,
+                "stars": 752,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -36,7 +36,7 @@
             {
               "node_type": "item",
               "title": "📜AirBnb Style Guide - CSS",
-              "description": null,
+              "description": "airbnb/css",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -49,7 +49,7 @@
                 "open_issues": 23,
                 "owner": "airbnb",
                 "repo": "css",
-                "stars": 6967,
+                "stars": 6965,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -70,7 +70,7 @@
             {
               "node_type": "item",
               "title": "📒You Don't Know JavaScript",
-              "description": null,
+              "description": "getify/You-Dont-Know-JS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -83,7 +83,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 185010,
+                "stars": 185009,
                 "topics": [
                   "async",
                   "book",
@@ -112,7 +112,7 @@
             {
               "node_type": "item",
               "title": "📜Short JavaScript code snippets for all your development needs",
-              "description": null,
+              "description": "Chalarangelo/30-seconds-of-code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -125,7 +125,7 @@
                 "open_issues": 0,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 129306,
+                "stars": 129308,
                 "topics": [
                   "astro",
                   "awesome-list",
@@ -147,7 +147,7 @@
             {
               "node_type": "item",
               "title": "📜Modern JavaScript Cheatsheet",
-              "description": null,
+              "description": "mbeaudru/modern-js-cheatsheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -160,7 +160,7 @@
                 "open_issues": 10,
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25600,
+                "stars": 25601,
                 "topics": [
                   "es6",
                   "javascript"
@@ -178,7 +178,7 @@
             {
               "node_type": "item",
               "title": "📜Airbnb JavaScript Style Guide",
-              "description": null,
+              "description": "airbnb/javascript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -188,10 +188,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-04-16T19:24:09Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148307,
+                "stars": 148301,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -227,7 +227,7 @@
             {
               "node_type": "item",
               "title": "🌐React Router",
-              "description": null,
+              "description": "remix-run/react-router",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -237,10 +237,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-01T14:54:03Z",
-                "open_issues": 211,
+                "open_issues": 212,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56591,
+                "stars": 56588,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -255,7 +255,7 @@
             {
               "node_type": "item",
               "title": "🌐Redux",
-              "description": null,
+              "description": "reduxjs/redux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -268,7 +268,7 @@
                 "open_issues": 15,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61483,
+                "stars": 61484,
                 "topics": [
                   "redux"
                 ]
@@ -278,7 +278,7 @@
             {
               "node_type": "item",
               "title": "🌐Recoil",
-              "description": null,
+              "description": "facebookexperimental/Recoil",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -291,7 +291,7 @@
                 "open_issues": 320,
                 "owner": "facebookexperimental",
                 "repo": "Recoil",
-                "stars": 19418,
+                "stars": 19417,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -306,7 +306,7 @@
             {
               "node_type": "item",
               "title": "🌐Material Kit React",
-              "description": null,
+              "description": "creativetimofficial/material-kit-react",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -338,7 +338,7 @@
             {
               "node_type": "item",
               "title": "🌐Enzyme",
-              "description": null,
+              "description": "enzymejs/enzyme",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -381,7 +381,7 @@
             {
               "node_type": "item",
               "title": "🌐Create React App",
-              "description": null,
+              "description": "react/create-react-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -394,7 +394,7 @@
                 "open_issues": 2410,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103233,
+                "stars": 103231,
                 "topics": [
                   "build-tools",
                   "react",
@@ -406,7 +406,7 @@
             {
               "node_type": "item",
               "title": "🌐React Boilerplate",
-              "description": null,
+              "description": "react-boilerplate/react-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -451,7 +451,7 @@
             {
               "node_type": "item",
               "title": "🌐Vue CLI",
-              "description": null,
+              "description": "vuejs/vue-cli",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -464,7 +464,7 @@
                 "open_issues": 1069,
                 "owner": "vuejs",
                 "repo": "vue-cli",
-                "stars": 29527,
+                "stars": 29526,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -472,7 +472,7 @@
             {
               "node_type": "item",
               "title": "🌐Vue Dev Tools",
-              "description": null,
+              "description": "vuejs/devtools-v6",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -485,7 +485,7 @@
                 "open_issues": 513,
                 "owner": "vuejs",
                 "repo": "devtools-v6",
-                "stars": 24682,
+                "stars": 24681,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -493,7 +493,7 @@
             {
               "node_type": "item",
               "title": "🌐Bit",
-              "description": null,
+              "description": "teambit/bit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -502,11 +502,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T20:02:45Z",
-                "open_issues": 77,
+                "last_commit": "2026-10-03T00:03:36Z",
+                "open_issues": 76,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18492,
+                "stars": 18493,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -534,7 +534,7 @@
             {
               "node_type": "item",
               "title": "🌐Vue Dev Server",
-              "description": null,
+              "description": "paulpflug/vue-dev-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:39:27.562Z",
+    "last_updated": "2026-10-03T04:45:31.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Frontend  development",
