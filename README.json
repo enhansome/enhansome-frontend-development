@@ -125,7 +125,7 @@
                 "open_issues": 0,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 129308,
+                "stars": 129309,
                 "topics": [
                   "astro",
                   "awesome-list",
@@ -191,7 +191,7 @@
                 "open_issues": 168,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148301,
+                "stars": 148302,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -394,7 +394,7 @@
                 "open_issues": 2410,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103231,
+                "stars": 103233,
                 "topics": [
                   "build-tools",
                   "react",
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:45:31.983Z",
+    "last_updated": "2026-10-03T08:17:25.120Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Frontend  development",

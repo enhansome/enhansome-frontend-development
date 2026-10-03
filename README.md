@@ -256,14 +256,14 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Snippets and cheatsheets
 
-* 📜[Short JavaScript code snippets for all your development needs](https://github.com/30-seconds/30-seconds-of-code) ⭐ 129,308 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-02
+* 📜[Short JavaScript code snippets for all your development needs](https://github.com/30-seconds/30-seconds-of-code) ⭐ 129,309 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-02
 * 📜[Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) ⭐ 25,601 | 🐛 10 | 📅 2024-10-15
 * 📜[A ridiculous collection of cheatsheets](https://devhints.io/)
 * 📜[Favorite JavaScript utilities in single line of code](https://1loc.dev/)
 
 ### Style Guides
 
-* 📜[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) ⭐ 148,301 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16
+* 📜[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) ⭐ 148,302 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16
 * 📜[Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 * 📜[Standardjs](https://standardjs.com/)
 
@@ -417,7 +417,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Create React App
 
-* 🌐[Create React App](https://github.com/facebook/create-react-app) ⭐ 103,231 | 🐛 2,410 | 🌐 JavaScript | 📅 2025-02-15
+* 🌐[Create React App](https://github.com/facebook/create-react-app) ⭐ 103,233 | 🐛 2,410 | 🌐 JavaScript | 📅 2025-02-15
 * 🌐[React Boilerplate](https://github.com/react-boilerplate/react-boilerplate) ⭐ 29,471 | 🐛 140 | 🌐 JavaScript | 📅 2023-03-23
 * 🌐[Divjoy](https://divjoy.com) 💵
 
@@ -718,7 +718,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 * 🌐[Julia Johnson](https://www.juliacodes.com/)
 * 🌐[Matt Farley](http://mattfarley.ca/)
 * 🌐[Nathan Simpson](https://nathansimpson.design/)
-* 🌐[Developer Portfolios - Github Repo](https://github.com/emmabostian/developer-portfolios) ⭐ 26,929 | 🐛 3 | 🌐 Python | 📅 2026-10-02
+* 🌐[Developer Portfolios - Github Repo](https://github.com/emmabostian/developer-portfolios) ⭐ 26,933 | 🐛 3 | 🌐 Python | 📅 2026-10-02
 
 [👆 Back To Top](#table-of-contents)
 
