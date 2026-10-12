@@ -83,7 +83,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184809,
+                "stars": 184818,
                 "topics": [
                   "async",
                   "book",
@@ -125,7 +125,7 @@
                 "open_issues": 0,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 129161,
+                "stars": 129172,
                 "topics": [
                   "astro",
                   "awesome-list",
@@ -160,7 +160,7 @@
                 "open_issues": 10,
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25596,
+                "stars": 25597,
                 "topics": [
                   "es6",
                   "javascript"
@@ -237,10 +237,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-09T20:05:55Z",
-                "open_issues": 225,
+                "open_issues": 230,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56592,
+                "stars": 56596,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -268,7 +268,7 @@
                 "open_issues": 15,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61472,
+                "stars": 61471,
                 "topics": [
                   "redux"
                 ]
@@ -394,7 +394,7 @@
                 "open_issues": 2408,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103219,
+                "stars": 103220,
                 "topics": [
                   "build-tools",
                   "react",
@@ -502,7 +502,7 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T20:58:08Z",
+                "last_commit": "2026-10-11T12:27:52Z",
                 "open_issues": 76,
                 "owner": "teambit",
                 "repo": "bit",
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T09:03:19.316Z",
+    "last_updated": "2026-10-12T09:24:39.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Frontend  development",
@@ -571,7 +571,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2024-03-04T11:02:05Z",
-      "open_issues": 21,
+      "open_issues": 20,
       "owner": "codingknite",
       "repo": "frontend-development",
       "stars": 2337,
