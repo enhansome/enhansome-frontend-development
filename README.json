@@ -83,7 +83,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184829,
+                "stars": 184822,
                 "topics": [
                   "async",
                   "book",
@@ -125,7 +125,7 @@
                 "open_issues": 0,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 129231,
+                "stars": 129239,
                 "topics": [
                   "astro",
                   "awesome-list",
@@ -160,7 +160,7 @@
                 "open_issues": 10,
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25589,
+                "stars": 25588,
                 "topics": [
                   "es6",
                   "javascript"
@@ -237,10 +237,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-16T15:16:32Z",
-                "open_issues": 226,
+                "open_issues": 231,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56613,
+                "stars": 56612,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -394,7 +394,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103225,
+                "stars": 103226,
                 "topics": [
                   "build-tools",
                   "react",
@@ -419,7 +419,7 @@
                 "open_issues": 141,
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29464,
+                "stars": 29463,
                 "topics": [
                   "i18n",
                   "immer",
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T07:02:38.125Z",
+    "last_updated": "2026-10-18T07:18:00.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Frontend  development",
