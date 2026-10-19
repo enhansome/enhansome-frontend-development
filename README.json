@@ -49,7 +49,7 @@
                 "open_issues": 23,
                 "owner": "airbnb",
                 "repo": "css",
-                "stars": 6959,
+                "stars": 6960,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -121,11 +121,11 @@
                 "id": 112507086,
                 "language": "JavaScript",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-02T01:17:53Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-18T11:39:31Z",
+                "open_issues": 1,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 129239,
+                "stars": 129251,
                 "topics": [
                   "astro",
                   "awesome-list",
@@ -191,7 +191,7 @@
                 "open_issues": 168,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148061,
+                "stars": 148058,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -237,10 +237,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-16T15:16:32Z",
-                "open_issues": 231,
+                "open_issues": 234,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56612,
+                "stars": 56608,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -268,7 +268,7 @@
                 "open_issues": 15,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61475,
+                "stars": 61472,
                 "topics": [
                   "redux"
                 ]
@@ -291,7 +291,7 @@
                 "open_issues": 320,
                 "owner": "facebookexperimental",
                 "repo": "Recoil",
-                "stars": 19411,
+                "stars": 19410,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -351,7 +351,7 @@
                 "open_issues": 282,
                 "owner": "enzymejs",
                 "repo": "enzyme",
-                "stars": 19808,
+                "stars": 19807,
                 "topics": [
                   "assertion-library",
                   "assertions",
@@ -394,7 +394,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103226,
+                "stars": 103233,
                 "topics": [
                   "build-tools",
                   "react",
@@ -419,7 +419,7 @@
                 "open_issues": 141,
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29463,
+                "stars": 29462,
                 "topics": [
                   "i18n",
                   "immer",
@@ -464,7 +464,7 @@
                 "open_issues": 1069,
                 "owner": "vuejs",
                 "repo": "vue-cli",
-                "stars": 29513,
+                "stars": 29512,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -506,7 +506,7 @@
                 "open_issues": 83,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18495,
+                "stars": 18496,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T07:18:00.439Z",
+    "last_updated": "2026-10-19T07:55:00.056Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Frontend  development",
@@ -571,10 +571,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2024-03-04T11:02:05Z",
-      "open_issues": 20,
+      "open_issues": 19,
       "owner": "codingknite",
       "repo": "frontend-development",
-      "stars": 2338,
+      "stars": 2339,
       "topics": [
         "awesome-list",
         "awesome-lists",
