@@ -83,7 +83,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184828,
+                "stars": 184830,
                 "topics": [
                   "async",
                   "book",
@@ -121,11 +121,11 @@
                 "id": 112507086,
                 "language": "JavaScript",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-18T11:39:31Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-20T13:48:13Z",
+                "open_issues": 2,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 129260,
+                "stars": 129268,
                 "topics": [
                   "astro",
                   "awesome-list",
@@ -191,7 +191,7 @@
                 "open_issues": 168,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148058,
+                "stars": 148055,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -236,11 +236,11 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-19T17:36:40Z",
-                "open_issues": 234,
+                "last_commit": "2026-10-20T20:53:49Z",
+                "open_issues": 242,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56611,
+                "stars": 56612,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -264,11 +264,11 @@
                 "id": 36535156,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T14:50:40Z",
+                "last_commit": "2026-10-20T19:04:18Z",
                 "open_issues": 15,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61476,
+                "stars": 61455,
                 "topics": [
                   "redux"
                 ]
@@ -351,7 +351,7 @@
                 "open_issues": 282,
                 "owner": "enzymejs",
                 "repo": "enzyme",
-                "stars": 19806,
+                "stars": 19805,
                 "topics": [
                   "assertion-library",
                   "assertions",
@@ -419,7 +419,7 @@
                 "open_issues": 141,
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29464,
+                "stars": 29463,
                 "topics": [
                   "i18n",
                   "immer",
@@ -464,7 +464,7 @@
                 "open_issues": 1069,
                 "owner": "vuejs",
                 "repo": "vue-cli",
-                "stars": 29512,
+                "stars": 29511,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -485,7 +485,7 @@
                 "open_issues": 513,
                 "owner": "vuejs",
                 "repo": "devtools-v6",
-                "stars": 24671,
+                "stars": 24670,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -502,8 +502,8 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T21:14:14Z",
-                "open_issues": 81,
+                "last_commit": "2026-10-20T22:00:20Z",
+                "open_issues": 83,
                 "owner": "teambit",
                 "repo": "bit",
                 "stars": 18496,
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T07:44:05.681Z",
+    "last_updated": "2026-10-21T07:48:13.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Frontend  development",
