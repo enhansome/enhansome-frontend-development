@@ -256,14 +256,14 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Snippets and cheatsheets
 
-* 📜[Short JavaScript code snippets for all your development needs](https://github.com/30-seconds/30-seconds-of-code) ⭐ 129,332 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-20
-* 📜[Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) ⭐ 25,585 | 🐛 10 | 📅 2024-10-15
+* 📜[Short JavaScript code snippets for all your development needs](https://github.com/30-seconds/30-seconds-of-code) ⭐ 129,351 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-26
+* 📜[Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) ⭐ 25,581 | 🐛 10 | 📅 2024-10-15
 * 📜[A ridiculous collection of cheatsheets](https://devhints.io/)
 * 📜[Favorite JavaScript utilities in single line of code](https://1loc.dev/)
 
 ### Style Guides
 
-* 📜[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) ⭐ 148,046 | 🐛 170 | 🌐 JavaScript | 📅 2026-04-16
+* 📜[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) ⭐ 148,044 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16
 * 📜[Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 * 📜[Standardjs](https://standardjs.com/)
 
@@ -319,7 +319,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 * 🌐[Bitbucket](https://bitbucket.org/)
 * 🌐[Github](http://github.com/)
-* 🌐[Git Extensions for Windows](https://github.com/gitextensions/gitextensions) ⭐ 8,601 | 🐛 556 | 🌐 C# | 📅 2026-10-25
+* 🌐[Git Extensions for Windows](https://github.com/gitextensions/gitextensions) ⭐ 8,601 | 🐛 554 | 🌐 C# | 📅 2026-10-25
 * 🌐[Sourcetree](https://www.sourcetreeapp.com/)
 
 [👆 Back To Top](#table-of-contents)
@@ -381,7 +381,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### React Tooling
 
-* 🌐[React Router](https://github.com/ReactTraining/react-router) ⭐ 56,627 | 🐛 239 | 🌐 TypeScript | 📅 2026-10-23
+* 🌐[React Router](https://github.com/ReactTraining/react-router) ⭐ 56,628 | 🐛 224 | 🌐 TypeScript | 📅 2026-10-26
 * 🌐[ESLint](https://eslint.org/)
 * 🌐[Lodash](https://lodash.com/)
 * 🌐[npm](https://www.npmjs.com/)
@@ -417,7 +417,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Create React App
 
-* 🌐[Create React App](https://github.com/facebook/create-react-app) ⭐ 103,240 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15
+* 🌐[Create React App](https://github.com/facebook/create-react-app) ⭐ 103,238 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15
 * 🌐[React Boilerplate](https://github.com/react-boilerplate/react-boilerplate) ⭐ 29,461 | 🐛 141 | 🌐 JavaScript | 📅 2023-03-23
 * 🌐[Divjoy](https://divjoy.com) 💵
 
@@ -524,9 +524,9 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Tools
 
-* 🌐[Vue CLI](https://github.com/vuejs/vue-cli) ⭐ 29,511 | 🐛 1,069 | 🌐 JavaScript | 📅 2025-08-21
+* 🌐[Vue CLI](https://github.com/vuejs/vue-cli) ⭐ 29,510 | 🐛 1,069 | 🌐 JavaScript | 📅 2025-08-21
 * 🌐[Vue Dev Tools](https://github.com/vuejs/vue-devtools) ⭐ 24,666 | 🐛 512 | 🌐 TypeScript | 📅 2024-09-11
-* 🌐[Bit](https://github.com/teambit/bit) ⭐ 18,497 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-25
+* 🌐[Bit](https://github.com/teambit/bit) ⭐ 18,498 | 🐛 80 | 🌐 TypeScript | 📅 2026-10-27
 * 🌐[Vue Dev Server](https://github.com/paulpflug/vue-dev-server) ⭐ 21 | 🐛 1 | 🌐 JavaScript | 📅 2017-03-24
 * 🌐[Bootstrap Vue](https://bootstrap-vue.js.org/)
 * 🌐[Nuxt.js](https://nuxtjs.org/)
@@ -718,7 +718,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 * 🌐[Julia Johnson](https://www.juliacodes.com/)
 * 🌐[Matt Farley](http://mattfarley.ca/)
 * 🌐[Nathan Simpson](https://nathansimpson.design/)
-* 🌐[Developer Portfolios - Github Repo](https://github.com/emmabostian/developer-portfolios) ⭐ 27,389 | 🐛 1 | 🌐 Python | 📅 2026-10-25
+* 🌐[Developer Portfolios - Github Repo](https://github.com/emmabostian/developer-portfolios) ⭐ 27,414 | 🐛 0 | 🌐 Python | 📅 2026-10-26
 
 [👆 Back To Top](#table-of-contents)
 
@@ -937,4 +937,4 @@ Thanks goes to these wonderful people
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
