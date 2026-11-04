@@ -83,7 +83,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184839,
+                "stars": 184842,
                 "topics": [
                   "async",
                   "book",
@@ -125,7 +125,7 @@
                 "open_issues": 3,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 129390,
+                "stars": 129400,
                 "topics": [
                   "astro",
                   "awesome-list",
@@ -236,11 +236,11 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-02T16:23:24Z",
-                "open_issues": 223,
+                "last_commit": "2026-11-03T22:51:59Z",
+                "open_issues": 227,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56632,
+                "stars": 56634,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -351,7 +351,7 @@
                 "open_issues": 282,
                 "owner": "enzymejs",
                 "repo": "enzyme",
-                "stars": 19801,
+                "stars": 19800,
                 "topics": [
                   "assertion-library",
                   "assertions",
@@ -394,7 +394,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103241,
+                "stars": 103238,
                 "topics": [
                   "build-tools",
                   "react",
@@ -419,7 +419,7 @@
                 "open_issues": 141,
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29447,
+                "stars": 29448,
                 "topics": [
                   "i18n",
                   "immer",
@@ -464,7 +464,7 @@
                 "open_issues": 1069,
                 "owner": "vuejs",
                 "repo": "vue-cli",
-                "stars": 29502,
+                "stars": 29501,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -485,7 +485,7 @@
                 "open_issues": 510,
                 "owner": "vuejs",
                 "repo": "devtools-v6",
-                "stars": 24656,
+                "stars": 24654,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -502,11 +502,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T03:42:40Z",
-                "open_issues": 77,
+                "last_commit": "2026-11-03T22:54:19Z",
+                "open_issues": 72,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18501,
+                "stars": 18502,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T09:42:22.072Z",
+    "last_updated": "2026-11-04T09:28:50.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Frontend  development",
