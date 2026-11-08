@@ -83,7 +83,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184842,
+                "stars": 184843,
                 "topics": [
                   "async",
                   "book",
@@ -125,7 +125,7 @@
                 "open_issues": 3,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 129441,
+                "stars": 129450,
                 "topics": [
                   "astro",
                   "awesome-list",
@@ -160,7 +160,7 @@
                 "open_issues": 10,
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25576,
+                "stars": 25577,
                 "topics": [
                   "es6",
                   "javascript"
@@ -191,7 +191,7 @@
                 "open_issues": 169,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148026,
+                "stars": 148024,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -268,7 +268,7 @@
                 "open_issues": 17,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61440,
+                "stars": 61439,
                 "topics": [
                   "redux"
                 ]
@@ -394,7 +394,7 @@
                 "open_issues": 2410,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103228,
+                "stars": 103229,
                 "topics": [
                   "build-tools",
                   "react",
@@ -464,7 +464,7 @@
                 "open_issues": 1069,
                 "owner": "vuejs",
                 "repo": "vue-cli",
-                "stars": 29496,
+                "stars": 29497,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T08:56:13.792Z",
+    "last_updated": "2026-11-08T09:12:25.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Frontend  development",
