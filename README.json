@@ -83,7 +83,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184848,
+                "stars": 184854,
                 "topics": [
                   "async",
                   "book",
@@ -125,7 +125,7 @@
                 "open_issues": 2,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 129506,
+                "stars": 129519,
                 "topics": [
                   "astro",
                   "awesome-list",
@@ -160,7 +160,7 @@
                 "open_issues": 10,
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25574,
+                "stars": 25571,
                 "topics": [
                   "es6",
                   "javascript"
@@ -237,7 +237,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-13T20:42:00Z",
-                "open_issues": 223,
+                "open_issues": 228,
                 "owner": "remix-run",
                 "repo": "react-router",
                 "stars": 56635,
@@ -264,11 +264,11 @@
                 "id": 36535156,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-11T21:16:56Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-14T20:25:06Z",
+                "open_issues": 17,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61436,
+                "stars": 61437,
                 "topics": [
                   "redux"
                 ]
@@ -291,7 +291,7 @@
                 "open_issues": 320,
                 "owner": "facebookexperimental",
                 "repo": "Recoil",
-                "stars": 19402,
+                "stars": 19400,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -394,7 +394,7 @@
                 "open_issues": 2408,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103227,
+                "stars": 103226,
                 "topics": [
                   "build-tools",
                   "react",
@@ -485,7 +485,7 @@
                 "open_issues": 508,
                 "owner": "vuejs",
                 "repo": "devtools-v6",
-                "stars": 24652,
+                "stars": 24651,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:22.740Z"
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T09:05:53.998Z",
+    "last_updated": "2026-11-15T09:36:54.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Frontend  development",
